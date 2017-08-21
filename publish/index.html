@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script src="/dist/angular.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<body ng-app="ungdungdautien">
+    <div id="wrapper" ng-controller="demoController">
+        <h2>Hello, welcome to course {{info.CourseName}} by {{info.Author}} </h2>
+
+        <label>Please, Input Author:</label>
+        <input type="text" ng-model="info.Author" />
+        <div>
+            <label> Hello <span ng-bind="info.Author"></span>
+    </div>
+    </div>
+</body>
+
+<script src="/dist/main.js"></script>
+
+
+</html>
