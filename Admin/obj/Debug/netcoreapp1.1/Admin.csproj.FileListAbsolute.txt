@@ -1,0 +1,8 @@
+e:\tuongpv\angular1\angular1\Admin\bin\Debug\netcoreapp1.1\Admin.deps.json
+e:\tuongpv\angular1\angular1\Admin\bin\Debug\netcoreapp1.1\Admin.runtimeconfig.json
+e:\tuongpv\angular1\angular1\Admin\bin\Debug\netcoreapp1.1\Admin.runtimeconfig.dev.json
+e:\tuongpv\angular1\angular1\Admin\bin\Debug\netcoreapp1.1\Admin.dll
+e:\tuongpv\angular1\angular1\Admin\bin\Debug\netcoreapp1.1\Admin.pdb
+e:\tuongpv\angular1\angular1\Admin\obj\Debug\netcoreapp1.1\Admin.AssemblyInfo.cs
+e:\tuongpv\angular1\angular1\Admin\obj\Debug\netcoreapp1.1\Admin.dll
+e:\tuongpv\angular1\angular1\Admin\obj\Debug\netcoreapp1.1\Admin.pdb
